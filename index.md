@@ -21,3 +21,9 @@ let hola: string = 'Hola mundo';
 def holamundo(mensaje):
   print(mensaje)
 ```
+
+- [x] requerimiento 1
+- [x] requerimiento 2
+- [x] requerimiento 3
+
+
