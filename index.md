@@ -5,3 +5,19 @@
 
 ![mandalorian](https://hips.hearstapps.com/hmg-prod/images/the-mandalorian-the-tragedy-fotogramas-1-1607101080.jpg)
 
+```
+Object obj = new Object("Hola mundo");
+```
+
+``` typescript
+let hola: string = 'Hola mundo';
+```
+
+``` typescript
+let hola: string = 'Hola mundo';
+```
+
+``` python
+def holamundo(mensaje):
+  print(mensaje)
+```
